@@ -39,7 +39,7 @@ Distributed under the MIT License. See LICENSE for more information.
 ## 📸 Screenshots
 
 ### RaphEdge Interface 1
-![RaphEdge Interface 1](screenshot-1.png)
+![RaphEdge Interface 1](Screenshot-1.png)
 
 ### RaphEdge Interface 2
-![RaphEdge Interface 2](screenshot-2.png)
+![RaphEdge Interface 2](Screenshot-2.png)
