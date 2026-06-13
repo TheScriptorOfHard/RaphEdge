@@ -34,4 +34,4 @@ Engine: Microsoft.Web.WebView2
 Contributions are welcome! If you have suggestions for performance improvements or bug fixes, feel free to open an issue or submit a pull request.
 
 ⚖️ License
-Distributed under the MIT License.
+Distributed under the MIT License. See LICENSE for more information.
