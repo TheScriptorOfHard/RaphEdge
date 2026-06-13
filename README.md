@@ -46,4 +46,4 @@ Distributed under the MIT License. See LICENSE for more information.
 
 ## ®️ Account
 
-![My YouTube Channel](https://www.youtube.com/@ZODAK-officiel)
+[My YouTube Channel](https://www.youtube.com/@ZODAK-officiel)
