@@ -35,6 +35,3 @@ Contributions are welcome! If you have suggestions for performance improvements 
 
 ⚖️ License
 Distributed under the MIT License.
-
-⚖️ License
-Distributed under the MIT License. See LICENSE for more information
