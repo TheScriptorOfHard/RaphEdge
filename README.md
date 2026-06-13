@@ -35,3 +35,7 @@ Contributions are welcome! If you have suggestions for performance improvements 
 
 ⚖️ License
 Distributed under the MIT License. See LICENSE for more information.
+
+![RaphEdge Interface 1](screenshot-1.png)
+
+![RaphEdge Interface 2](screenshot-2.png)
